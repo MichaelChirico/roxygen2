@@ -12,6 +12,7 @@ vignette: >
 ```{r}
 #| include: false
 
+library(S7)
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
